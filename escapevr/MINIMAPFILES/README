@@ -1,0 +1,4 @@
+tempsnip.bmp is map image
+minimap_target.HDR/uasset are not really needed, are used in combination with camera to capture map texture
+Hud_widget can be modified to change minimap placement on screen
+Minimap_Data blueprint is used to calculate player location on minimap bmp
